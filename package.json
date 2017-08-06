@@ -1,0 +1,19 @@
+{
+  "name": "djinn",
+  "version": "1.0.0",
+  "description": "Crowd Source Your Party",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"test-unit\": \"NODE_ENV=test mocha '/**/*.spec.js'\","
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nkjefferson/djinn.git"
+  },
+  "author": "Nathaniel Jefferson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nkjefferson/djinn/issues"
+  },
+  "homepage": "https://github.com/Nkjefferson/djinn#readme"
+}
